@@ -9,7 +9,7 @@ export default function App() {
         <Weather />
       </div>
       <div className="graphic">
-        <img src="public/green-01.png" alt="graphic" />
+        <img src="./green-01.png" alt="graphic" />
       </div>
       <div className="white">
         <div className="row" id="forecast"></div>
